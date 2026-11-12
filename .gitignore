@@ -1,0 +1,17 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# Build output
+[Bb]in/
+[Oo]bj/
+
+# Test results
+TestResults/
+
+# User-specific files
+*.csproj.user
+
+# Local secrets
+secrets.json

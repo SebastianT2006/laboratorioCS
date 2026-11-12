@@ -1,0 +1,7 @@
+namespace presentacion_Personas.interfaces
+{
+    public interface IComunicaciones
+    {
+        Task<T> Ejecutar<T>(string url, object entidad);
+    }
+}

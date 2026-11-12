@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="aplicacion_Personas/aplicaciones_SebastianTorres.csproj" />
+  <Project Path="front_Personas/front_SebastianTorres.csproj" />
+  <Project Path="presentacion_Personas/presentacion_SebastianTorres.csproj" />
+  <Project Path="pruebas_Personas/pruebas_SebastianTorres.csproj" />
+  <Project Path="servicies_Personas/servicies_SebastianTorres.csproj" />
+</Solution>
